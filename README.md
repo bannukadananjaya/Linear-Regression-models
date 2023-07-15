@@ -1,2 +1,2 @@
 # Linear-Regression-models
-Lab 02
+Machine Learning Lab 02
